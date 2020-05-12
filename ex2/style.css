@@ -10,9 +10,7 @@ h2 {
   font-size: 1.2em;
   margin-top: 0;
 }
-#menu {
-  border: 3px solid #783F27;
-}
+
 section {
   background: #F6F3ED;
   margin: 10px;
@@ -35,5 +33,6 @@ section {
 
 #menu{
   display: flex;
-  flex-wrap: wrap;
+  justify-content: center;
+  border: 3px solid #783F27;
 }
